@@ -1,0 +1,11 @@
+{
+  "name": "blind-75-javascript-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test.js --watchAll"
+  },
+  "author": "",
+  "license": "ISC"
+}
