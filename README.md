@@ -33,3 +33,5 @@ yarn test
 
 ## Contributing
 Contributions are welcome! If you'd like to add more solutions or improve existing ones, please feel free to fork this repository and submit a pull request.
+
+Happy learning! 🚀
